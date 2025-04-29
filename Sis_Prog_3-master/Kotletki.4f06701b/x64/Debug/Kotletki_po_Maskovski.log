@@ -1,0 +1,7 @@
+﻿  Kotletki_po_Maskovski.cpp
+C:\Users\Serafima\Downloads\Gvozdev\C++\АлекСи++ Македонский\Sis_Prog_3-master\Kotletki_po_Maskovski.cpp(305,30): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\Serafima\Downloads\Gvozdev\C++\АлекСи++ Македонский\Sis_Prog_3-master\Kotletki_po_Maskovski.cpp(305,30): warning C4244:         with
+C:\Users\Serafima\Downloads\Gvozdev\C++\АлекСи++ Македонский\Sis_Prog_3-master\Kotletki_po_Maskovski.cpp(305,30): warning C4244:         [
+C:\Users\Serafima\Downloads\Gvozdev\C++\АлекСи++ Македонский\Sis_Prog_3-master\Kotletki_po_Maskovski.cpp(305,30): warning C4244:             _Ty=int
+C:\Users\Serafima\Downloads\Gvozdev\C++\АлекСи++ Македонский\Sis_Prog_3-master\Kotletki_po_Maskovski.cpp(305,30): warning C4244:         ]
+  Kotletki_po_Maskovski.vcxproj -> C:\Users\Serafima\Downloads\Gvozdev\C++\АлекСи++ Македонский\Sis_Prog_3-master\x64\Debug\Kotletki_po_Maskovski.exe
