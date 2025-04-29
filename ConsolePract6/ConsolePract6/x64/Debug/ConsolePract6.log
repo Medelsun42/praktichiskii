@@ -1,0 +1,5 @@
+﻿  ConsolePract6.cpp
+C:\Users\Serafima\Downloads\Gvozdev\C++\АлекСи++ Македонский\NEW_C++\ConsolePract6\ConsolePract6\Functions.h(64,23): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "ConsolePract6.cpp")
+  
+  ConsolePract6.vcxproj -> C:\Users\Serafima\Downloads\Gvozdev\C++\АлекСи++ Македонский\NEW_C++\ConsolePract6\x64\Debug\ConsolePract6.exe
