@@ -1,0 +1,4 @@
+﻿  ConsolePract3.cpp
+C:\Users\Serafima\Downloads\Gvozdev\C++\NEW\ConsolePract3\ConsolePract3.cpp(293,5): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+C:\Users\Serafima\Downloads\Gvozdev\C++\NEW\ConsolePract3\ConsolePract3.cpp(437,9): warning C4286: const std::out_of_range &: перехвачено базовым классом ("const std::logic_error &") в строке 434
+  ConsolePract3.vcxproj -> C:\Users\Serafima\Downloads\Gvozdev\C++\NEW\ConsolePract3\x64\Debug\ConsolePract3.exe
